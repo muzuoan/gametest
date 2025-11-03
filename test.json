@@ -1,0 +1,34 @@
+{
+  "name": "JSON 查看器测试",
+  "version": "1.0.0",
+  "description": "这是一个用于测试 JSON 查看器的示例文件",
+  "author": {
+    "name": "测试用户",
+    "email": "test@example.com"
+  },
+  "features": [
+    "折叠/扩展",
+    "语法高亮12",
+    "文件导入导出23",
+    "响应式设计"
+  ],
+  "settings": {
+    "theme": "light",
+    "fontSize": 14,
+    "autoSave": true,
+    "advanced": {
+      "enableLogging": false,
+      "maxHistory": 10
+    }
+  },
+  "stats": {
+    "users": 1000,
+    "downloads": 5000,
+    "rating": 4.8
+  },
+  "nullValue": null,
+  "booleanTrue": true,
+  "booleanFalse": false,
+  "emptyArray": [],
+  "emptyObject": {}
+}
