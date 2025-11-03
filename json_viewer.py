@@ -384,5 +384,6 @@ if __name__ == "__main__":
     root = tk.Tk()
     # 设置窗口图标（可选）
     # root.iconbitmap("icon.ico")
+    print("JSON 查看器启动中...")
     app = JSONViewer(root)
     root.mainloop()
